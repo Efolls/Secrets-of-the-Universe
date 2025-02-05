@@ -1,4 +1,4 @@
-<h1>Welcome to <i><b>THE SECRETS OF THE UNIVERSE!!</b></i>i></h1>
+<h1>Welcome to <i><b>THE SECRETS OF THE UNIVERSE!!</b></i></h1>
 
 Allow Windows Hello:
 1. Search for 'Edit Group Policy" in the start menu and open the utility.
